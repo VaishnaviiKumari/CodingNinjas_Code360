@@ -13,3 +13,5 @@ bool amicablePair(int x, int y) {
 	if(sum == y) return true;
 	else return false;
 }
+
+
