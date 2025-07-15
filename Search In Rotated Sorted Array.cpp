@@ -1,5 +1,4 @@
 //Search In Rotated Sorted Array
-
 int getPivot(vector<int>& arr,int size){
     int s = 0;
     int e = size-1;
