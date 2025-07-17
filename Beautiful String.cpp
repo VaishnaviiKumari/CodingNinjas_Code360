@@ -1,5 +1,4 @@
 //Beautiful String
-
 int makeBeautiful(string str) {
     int n = str.length();
     int count1 = 0, count2 = 0;
