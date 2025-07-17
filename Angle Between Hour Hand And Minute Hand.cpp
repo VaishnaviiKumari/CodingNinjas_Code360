@@ -1,9 +1,7 @@
 // Angle Between Hour Hand And Minute Hand
-
 #include <bits/stdc++.h> 
 int findAngle(int hour, int minute) {
     // Write your code here.
-
     // Calculate the position of the hr and min hands in degree
     float min_angle = minute*6;
     float hr_angle = (hour%12)*30 + minute*0.5;
