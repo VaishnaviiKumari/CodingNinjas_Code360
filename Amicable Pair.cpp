@@ -1,6 +1,5 @@
 // Problem of the day: Code
 // Amicable Pair
-
 #include <bits/stdc++.h> 
 bool amicablePair(int x, int y) {
 	// Write your code here.
